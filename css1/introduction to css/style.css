@@ -1,0 +1,20 @@
+.om{
+    color: blue;
+    text-align: center;
+}
+.piyush{
+    color: black;
+    text-align: center;
+}
+#kartik{
+    color: blueviolet;
+    font-style: italic;
+    text-align: center;
+}
+
+body{
+    border-top: 4px solid black;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    border-left:  4px solid black;
+}
